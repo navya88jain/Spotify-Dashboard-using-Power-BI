@@ -6,7 +6,7 @@ This project provides insights into music trends, track features, and artist per
 ---
 
 ## Dashboard Preview
-
+![Screenshot of Dashboard](Screenshots/Screenshot%20(1).png)
 
 ---
 
